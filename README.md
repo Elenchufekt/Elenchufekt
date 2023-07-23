@@ -1,3 +1,18 @@
+
+<!-- TITLE -->
+
+<p align="center">
+  <a>
+    <img src="assets/titles.png" alt="Not Work" /></a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Regular+console&weight=900&pause=1000&color=8EC07C&center=true&vCenter=true&width=460&lines=Attempted+web+designer;Always+learning+new+things;Making+fabulous+designs;Correcting+errors;Preparing+coffee;Trying+things+out" alt="Typing SVG" /></a>
+</p>
+
+
+<!-- ABOUT ME -->
+
 # 💫 About Me:
 
 ♡ Designing things ♡
@@ -27,9 +42,10 @@
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Elenchufekt%20&theme=gruvbox&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-Profile Stats
+Profile Stats and my most used languages
 <!-- Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elenchufekt&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elenchufekt&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elenchufekt&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Activity graph
 <!-- Activity Graph -->
