@@ -20,21 +20,23 @@
 </details> 
 
 <details> 
-  <summary><h2> Stats and Activity</h2></summary>
-Statistics of my streaks 
+  <summary><h2>Stats and Activity</h2></summary>
+  
+  Statistics of my streaks 
   <!-- Streak Stats -->
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=Elenchufekt %20&theme=gruvbox&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Elenchufekt%20&theme=gruvbox&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 Profile Stats
 <!-- Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elenchufekt &show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elenchufekt&show_icons=true&theme=gruvbox)
 
 Activity graph
 <!-- Activity Graph -->
-[![Graphic](https://github-readme-activity-graph.vercel.app/graph?username=Elenchufekt &bg_color=282828&title_color=fabd2f&icon_color=c96a1d&line=d8a52e&point=fe8019&color=8ec07c)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Graphic](https://github-readme-activity-graph.vercel.app/graph?username=Elenchufekt&bg_color=282828&title_color=fabd2f&icon_color=c96a1d&line=d8a52e&point=fe8019&color=8ec07c)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
+
 
 
 
