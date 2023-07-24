@@ -1,25 +1,43 @@
 
-<!-- TITLE -->
+<!-- Title image -->
 
 <p align="center">
   <a>
-    <img src="assets/titles.png" alt="Not Work" /></a>
+    <img src="assets/title.png" alt="Not Work" /></a>
 </p>
 
+<!-- Typing text -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Regular+console&weight=900&pause=1000&color=8EC07C&center=true&vCenter=true&width=460&lines=Attempted+web+designer;Always+learning+new+things;Making+fabulous+designs;Correcting+errors;Preparing+coffee;Trying+things+out" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Regular+console&weight=900&pause=1000&color=8EC07C&center=true&vCenter=true&width=460&lines=Attempted+web+designer;Always+learning+new+things;Making+fabulous+designs;Correcting+errors...;Preparing+coffee...;Trying+things+out..." alt="Typing SVG" /></a>
 </p>
 
+<!-- About me -->
+<details open> 
+  <summary><h2>💫 About Me</h2></summary>
+  
+<div align="center">
+  <h3 style="margin-bottom: 20px;">♡ Designing things ♡</h3>
+</div>
 
-<!-- ABOUT ME -->
+<!-- Cherry blossom -->
+<!-- 
+<p align="center">
+  <a>
+    <img src="assets/Cherry.gif" alt="Not Work!"/>
+  </a>
+</p>
+-->
 
-# 💫 About Me:
-
-♡ Designing things ♡
-
+<!-- My languages -->
 <details open> 
   <summary><h2>💻 Tech Stack</h2></summary>
-  
+</details> 
+
+<div>
+  <h3>Well this is a list of languages and tools that I know and have used at some time, I am always learning more languages and tools to be better at what I do ^_^ ♡</h3>
+</div>
+
+<!-- My lenguages -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,12 +52,12 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </details> 
 
+<!-- My stats -->
 <details> 
-  <summary><h2>Stats and Activity</h2></summary>
+  <summary><h2>📈 Stats and Activity</h2></summary>
   
-  Statistics of my streaks 
-  <!-- Streak Stats -->
-  
+Statistics of my streaks 
+<!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Elenchufekt%20&theme=gruvbox&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 Profile Stats and my most used languages
@@ -53,10 +71,7 @@ Activity graph
 
 </details>
 
-
-
-
 ---
 
-
+<!-- Number of my profile vievs -->
 ![](https://visitcount.itsvg.in/api?id=ElenaPa&label=Profile%20Views&color=5&icon=0&pretty=true)
