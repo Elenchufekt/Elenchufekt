@@ -31,7 +31,6 @@
 <!-- My languages -->
 <details open> 
   <summary><h2>💻 Tech Stack</h2></summary>
-</details> 
 
 <div>
   <h3>Well this is a list of languages and tools that I know and have used at some time, I am always learning more languages and tools to be better at what I do ^_^ ♡</h3>
@@ -60,16 +59,19 @@
 <details> 
   <summary><h2>📈 Stats and Activity</h2></summary>
   
-Statistics of my streaks 
+<h3> 🔥 Statistics of my streaks</h3>
+
 <!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Elenchufekt%20&theme=gruvbox&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
-Profile Stats and my most used languages
+<h3> 📊 Profile Stats and my most used languages</h3>
+
 <!-- Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elenchufekt&show_icons=true&theme=gruvbox) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elenchufekt&layout=donut&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Activity graph
+<h3> 📉 Activity graph</h3>
+
 <!-- Activity Graph -->
 [![Graphic](https://github-readme-activity-graph.vercel.app/graph?username=Elenchufekt&bg_color=282828&title_color=fabd2f&icon_color=c96a1d&line=d8a52e&point=fe8019&color=8ec07c)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
