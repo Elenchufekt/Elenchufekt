@@ -11,6 +11,28 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: DenverCoderOne/github-activity-readme@commit-username-and-email
+      - uses: Elenchufekt/github-activity-readme@commit-username-and-email
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          name: GitHub activity
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+   steps:
+      - uses: actions/checkout@v2
+      - name: Set up Node.js 16.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16.x'
+      - name: Update GitHub activity in README
+        uses: Elenchufekt/github-activity-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
