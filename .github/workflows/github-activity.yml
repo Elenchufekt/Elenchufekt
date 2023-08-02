@@ -13,7 +13,5 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '16.x'
-      - name: Update GitHub activity in README
-      - uses: Elenchufekt/github-activity-readme@commit-username-and-email
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
